@@ -1,4 +1,4 @@
-# XION
+# Tea
 XION Go To Moon
 # https://tea.xyz/what-is-this-file
 ---
